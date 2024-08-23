@@ -1,12 +1,9 @@
-import './App.css';
-
-import Home from './Components/HomePage/Home';
-
-
-
+import React from 'react';
+import CustomerProfile from './CustomerComponents/CustomerProfile';
+import ProfilePage from './FarmerComponents/ProfilePage/ProfilePage';
 function App() {
   return (
-    <Home />
+    <ProfilePage />
   );
 }
 
