@@ -1,9 +1,8 @@
 import React from 'react';
-import CustomerProfile from './CustomerComponents/CustomerProfile';
-import ProfilePage from './FarmerComponents/ProfilePage/ProfilePage';
+import Home from './HomePage/Home';
 function App() {
   return (
-    <ProfilePage />
+   <Home />
   );
 }
 

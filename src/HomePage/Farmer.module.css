@@ -1,0 +1,36 @@
+.textWrapper {
+  margin-top: 100px;
+  display: flex;
+  margin-left: 200px;
+  margin-top: 80px;
+  margin-right: 90px;
+}
+
+.imageContainer {
+  flex: 0 0 200px;
+  margin: 10px;
+  height: 300px;
+  margin-right: 30px;
+}
+
+.image {
+  height: 100%; /* Maintain full height of the image */
+}
+
+
+
+.text {
+  color: green;
+}
+
+.lastButtonGreen {
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: rgb(3, 254, 3);
+  color: rgb(0, 0, 0);
+  margin-top: 30px;
+}
