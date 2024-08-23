@@ -1,0 +1,38 @@
+.start {
+    text-align: center;
+    background-image: url(../Images/bck.jpg);
+    border-radius:20px;
+    background-size: cover; 
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 40px;
+    width: 75%; 
+    height: 60vh; 
+    color: white;
+}
+
+.wel{
+    font-size: 40px;
+    font-family: monospace;
+}
+.button-green {
+    
+    margin-right: 10px;
+    background-color: rgb(3, 254, 3);
+    color:  rgb(0, 0, 0);
+    /* margin-bottom: 10px; */
+    
+}
+.side {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.button-grey {
+    background-color: grey;
+    color: black;
+}
