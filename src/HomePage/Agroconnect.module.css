@@ -1,0 +1,27 @@
+.imageContainer {
+  display: flex; /* Use flexbox to align items horizontally */
+  justify-content: space-around; /* Distribute space evenly between items */
+  align-items: center; /* Center items vertically */
+}
+
+.agriConnectContainer {
+  margin-left: 200px;
+  margin-right: 150px;
+  margin-top: 50px;
+}
+
+.marginBottom {
+  margin-bottom: 50px;
+}
+
+.div1 {
+  text-align: center;
+}
+
+.sectionImage {
+  border-radius: 20px;
+}
+
+.description {
+  color: green;
+}
