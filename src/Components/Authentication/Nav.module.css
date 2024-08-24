@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    min-width: 400px;
+}
+.back_button{
+    margin: 10px;
+    border: none; 
+    background: none;
+    
+}
+.leftarrow{
+    height: 40px;
+    width: 40px;
+}
+.text{
+    font-size: 2rem;
+}
